@@ -1,2 +1,3 @@
-# heart-disease-uci-prediction
-Heart Disease UCI - Kaggle Notebook
+# Heart Disease UCI - Prediction
+
+Source: https://www.kaggle.com/ronitf/heart-disease-uci
